@@ -1,0 +1,5 @@
+= Description
+This is a project to deploy ceph on smaller devices meant to be treated as cattle.
+
+= HowTo
+Pull down the code and integrate it with bootstrapping of a node. Names are important, be sure to follow the convention so the correct daemons are installed.
